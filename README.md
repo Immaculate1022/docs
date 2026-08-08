@@ -1,2 +1,3 @@
-# docs
-PegaConstellation Documentation — Central hub for guides and resources
+# PegaConstellation Documentation
+
+Central hub for guides, architecture, and resources.
