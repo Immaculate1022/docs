@@ -15,6 +15,15 @@ Central documentation index for PegaConstellation: architecture notes, technical
 | [Tesseract Medium](https://github.com/Immaculate1022/tesseract-medium) | [README](https://github.com/Immaculate1022/tesseract-medium#readme) | Runnable 4D geometry substrate; currently v0.3 |
 | [IOF Design Grammar](https://github.com/Immaculate1022/iof-design-grammar) | [SKILL.md](https://github.com/Immaculate1022/iof-design-grammar/blob/main/SKILL.md) | Shared language and design framework for IOF systems |
 
+## Executive Materials
+
+- **[IOF Public Executive Brief](whitepapers/IOF_Public_Executive_Brief.md)** — Publication-safe overview of the IOF research program, proposed system layers, validation roadmap, and limitations.
+- **[IOF Executive Summary](whitepapers/IOF_Executive_Summary.md)** — Concise summary of the architecture, evidence boundary, and recommended positioning.
+- **[Editorial and Evidence Review](whitepapers/IOF_Editorial_and_Evidence_Review.md)** — Claim-by-claim assessment of the original white paper with evidence and wording recommendations.
+- **[Theone Artifact Review](whitepapers/Theone_Artifact_Review.md)** — Review of the supplied production-stack design artifact and its reproducibility and operational-safety boundaries.
+
+The public brief is intentionally framed as a conceptual research program. It does not present zero-loss computation, infinite scaling, or production deployment as established results.
+
 ## Research and Reference Material
 
 - **[Tesseract Medium Geometry](https://github.com/Immaculate1022/research/blob/main/tesseract-medium-geometry.md)** — Research note describing the non-orientable fractal construction and its geometric vocabulary.
