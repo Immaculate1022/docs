@@ -5,6 +5,14 @@
 **Audience:** Engineers, researchers, investors, and policy makers  
 **Status:** Conceptual architecture and open research program
 
+## Author’s Note
+
+> The world may be one continuous, intelligent, self-ordering medium. Religion calls this God; science describes its parts through laws, fields, and structures. What looks chaotic at one scale can be ordered at another, because every molecule, system, and organism moves within a larger framework of stability that makes existence possible.
+>
+> — **Gregory Scott Davis**
+
+This statement provides philosophical context for the IOF research program. It is presented as an author perspective, not as an empirical claim or substitute for the technical validation described below.
+
 ## Executive Statement
 
 The Infinite Optical Fabric (IOF) is a proposed computing architecture that explores whether photonic propagation, resonant dynamics, geometric state representations, and information-preserving computation can reduce the energy and synchronization costs associated with large-scale information processing.
