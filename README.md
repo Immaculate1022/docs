@@ -22,6 +22,8 @@ Central documentation index for PegaConstellation: architecture notes, technical
 - **[Editorial and Evidence Review](whitepapers/IOF_Editorial_and_Evidence_Review.md)** — Claim-by-claim assessment of the original white paper with evidence and wording recommendations.
 - **[Theone Artifact Review](whitepapers/Theone_Artifact_Review.md)** — Review of the supplied production-stack design artifact and its reproducibility and operational-safety boundaries.
 - **[PegaConstellation Ecosystem](whitepapers/PegaConstellation_Ecosystem.md)** — Sanitized public ecosystem map covering project roles, integration intent, governance principles, and publication boundaries.
+- **[IOF Executive White Paper — Public Note](whitepapers/IOF_Executive_White_Paper_Public_Note.md)** — Publication boundary and reading order for the supplied IOF executive white paper.
+- **[Supplied IOF White Paper (Archive)](whitepapers/archive/IOF_Executive_White_Paper_Supplied.md)** — Exact source text preserved for traceability; not validated evidence.
 
 The public brief and ecosystem map are intentionally framed as a conceptual research program. It does not present zero-loss computation, infinite scaling, or production deployment as established results.
 
