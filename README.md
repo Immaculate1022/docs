@@ -1,4 +1,4 @@
-# PegaConstellation Documentation
+# PegaConstellation > IOF > Documentation
 
 Central documentation index for PegaConstellation: architecture notes, technical briefs, research, project guides, and community operating material.
 
