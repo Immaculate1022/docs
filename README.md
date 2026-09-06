@@ -45,3 +45,7 @@ Public work is released under the **IOF Attribution License v1.0** unless a repo
 ---
 
 **PegaConstellation · Gregory Scott Davis**
+
+## External review
+
+[`IOF_Ecosystem_External_Review.md`](whitepapers/external/IOF_Ecosystem_External_Review.md) is an independent external reader’s perspective on the project’s coherence, risks, discoverability, and measurement gap. It is opinion and synthesis, not an independently fact-checked technical audit. The review’s central recommendation is to preserve the project’s grammar while anchoring each layer with at least one falsifiable measurement or reproducible demonstration.
