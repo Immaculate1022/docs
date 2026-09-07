@@ -46,6 +46,13 @@ Public work is released under the **IOF Attribution License v1.0** unless a repo
 
 **PegaConstellation · Gregory Scott Davis**
 
+## GitHub Organization Migration
+
+- **[Organization Migration Plan](governance/GITHUB_ORG_MIGRATION_PLAN.md)** — reversible transfer waves, verification gates, rollback posture, and account-level prerequisites.
+- **[Target Organization Structure](governance/ORG_STRUCTURE.md)** — proposed repository groups, naming standards, profile layout, and canonical URL targets.
+
+These documents are planning artifacts. The organization has not been created, no repositories have been transferred, and `PegaConstellation` URLs remain targets until confirmed in GitHub.
+
 ## External review
 
 [`IOF_Ecosystem_External_Review.md`](whitepapers/external/IOF_Ecosystem_External_Review.md) is an independent external reader’s perspective on the project’s coherence, risks, discoverability, and measurement gap. It is opinion and synthesis, not an independently fact-checked technical audit. The review’s central recommendation is to preserve the project’s grammar while anchoring each layer with at least one falsifiable measurement or reproducible demonstration.
