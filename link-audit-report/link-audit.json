@@ -1,0 +1,427 @@
+{
+  "auditor": "pegaconstellation-link-auditor/1.0",
+  "read_only": true,
+  "owner": "Immaculate1022",
+  "target_org": "PegaConstellation",
+  "generated_at": "2026-09-07T05:23:04Z",
+  "repositories_scanned": 18,
+  "files_scanned": 51,
+  "unique_urls_checked": 41,
+  "issue_counts": {
+    "candidate for PegaConstellation migration": 31,
+    "ok": 7,
+    "verify Pages is intentionally enabled and the path is live; HTTP 404": 3
+  },
+  "findings": [
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/pegaconstellation-hub",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/pegaconstellation-hub",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/pegaconstellation-hub"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/AHR-Endpoint",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/AHR-Endpoint",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/AHR-Endpoint"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/AHR-Endpoint#readme",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/AHR-Endpoint#readme",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/AHR-Endpoint"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/AHR-Endpoint/blob/main/STATUS.md",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/AHR-Endpoint/blob/main/STATUS.md",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/AHR-Endpoint/blob/main/STATUS.md"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/IOF-Resonance-Core",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/IOF-Resonance-Core",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/IOF-Resonance-Core"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/IOF-Resonance-Core#readme",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/IOF-Resonance-Core#readme",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/IOF-Resonance-Core"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/IOF-Resonance-Core/tree/main/docs",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/IOF-Resonance-Core/tree/main/docs",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/IOF-Resonance-Core/tree/main/docs"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/aetherius-nexus",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/aetherius-nexus",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/aetherius-nexus"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/aetherius-nexus#readme",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/aetherius-nexus#readme",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/aetherius-nexus"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/moebius-llama",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/moebius-llama",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/moebius-llama"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/moebius-llama#readme",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/moebius-llama#readme",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/moebius-llama"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/tesseract-medium",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/tesseract-medium",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/tesseract-medium"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/tesseract-medium#readme",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/tesseract-medium#readme",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/tesseract-medium"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/iof-design-grammar",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/iof-design-grammar",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/iof-design-grammar"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/iof-design-grammar/blob/main/SKILL.md",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/iof-design-grammar/blob/main/SKILL.md",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/iof-design-grammar/blob/main/SKILL.md"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/research/blob/main/tesseract-medium-geometry.md",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/research/blob/main/tesseract-medium-geometry.md",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/research/blob/main/tesseract-medium-geometry.md"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/community",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/community",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/community"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/community/blob/main/AI-OPERATIONS.md",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/community/blob/main/AI-OPERATIONS.md",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/community/blob/main/AI-OPERATIONS.md"
+    },
+    {
+      "source_repo": "docs",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/IOF-Resonant-Hardware",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/IOF-Resonant-Hardware",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/IOF-Resonant-Hardware"
+    },
+    {
+      "source_repo": "AHR-Endpoint",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/AHR-Endpoint.git",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/AHR-Endpoint",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/AHR-Endpoint.git"
+    },
+    {
+      "source_repo": "AHR-Endpoint",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/sovereign-reality-engine",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/sovereign-reality-engine",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/sovereign-reality-engine"
+    },
+    {
+      "source_repo": "AHR-Endpoint",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/docs",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/docs",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/docs"
+    },
+    {
+      "source_repo": "AHR-Endpoint",
+      "source_path": "docs/eBPF_Enforcement.md",
+      "url": "https://aya-rs.dev/book/",
+      "kind": "external",
+      "status": 200,
+      "final_url": "https://aya-rs.dev/book/",
+      "issue": null,
+      "canonical_url": null
+    },
+    {
+      "source_repo": "pegaconstellation-hub",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/Immaculate1022",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/Immaculate1022",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/Immaculate1022"
+    },
+    {
+      "source_repo": "pegaconstellation-hub",
+      "source_path": "README.md",
+      "url": "https://immaculate1022.github.io/IOF-Resonance-Core/",
+      "kind": "github-pages",
+      "status": 404,
+      "final_url": "https://immaculate1022.github.io/IOF-Resonance-Core/",
+      "issue": "verify Pages is intentionally enabled and the path is live; HTTP 404",
+      "canonical_url": null
+    },
+    {
+      "source_repo": "pegaconstellation-hub",
+      "source_path": "README.md",
+      "url": "https://immaculate1022.github.io/IOF-Resonance-Core/ForensicTelemetry_Standalone.html",
+      "kind": "github-pages",
+      "status": 404,
+      "final_url": "https://immaculate1022.github.io/IOF-Resonance-Core/ForensicTelemetry_Standalone.html",
+      "issue": "verify Pages is intentionally enabled and the path is live; HTTP 404",
+      "canonical_url": null
+    },
+    {
+      "source_repo": "pegaconstellation-hub",
+      "source_path": "README.md",
+      "url": "https://immaculate1022.github.io/IOF-Resonance-Core/UnityProtocol_Visualizer.html",
+      "kind": "github-pages",
+      "status": 404,
+      "final_url": "https://immaculate1022.github.io/IOF-Resonance-Core/UnityProtocol_Visualizer.html",
+      "issue": "verify Pages is intentionally enabled and the path is live; HTTP 404",
+      "canonical_url": null
+    },
+    {
+      "source_repo": "pegaconstellation-hub",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/research",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/research",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/research"
+    },
+    {
+      "source_repo": "pegaconstellation-hub",
+      "source_path": "STATUS.md",
+      "url": "https://github.com/Immaculate1022",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation"
+    },
+    {
+      "source_repo": "IOF-Resonance-Core",
+      "source_path": "docs/docs-updates.md",
+      "url": "https://unpkg.com/react@18/umd/react.development.js",
+      "kind": "external",
+      "status": 200,
+      "final_url": "https://unpkg.com/react@18.3.1/umd/react.development.js",
+      "issue": null,
+      "canonical_url": null
+    },
+    {
+      "source_repo": "IOF-Resonance-Core",
+      "source_path": "docs/docs-updates.md",
+      "url": "https://unpkg.com/react-dom@18/umd/react-dom.development.js",
+      "kind": "external",
+      "status": 200,
+      "final_url": "https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js",
+      "issue": null,
+      "canonical_url": null
+    },
+    {
+      "source_repo": "IOF-Resonance-Core",
+      "source_path": "docs/docs-updates.md",
+      "url": "https://unpkg.com/@babel/standalone/babel.min.js",
+      "kind": "external",
+      "status": 200,
+      "final_url": "https://unpkg.com/@babel/standalone@8.0.4/babel.min.js",
+      "issue": null,
+      "canonical_url": null
+    },
+    {
+      "source_repo": "infinite-optical-fabric-resonance-core",
+      "source_path": "README.md",
+      "url": "https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg",
+      "kind": "external",
+      "status": 200,
+      "final_url": "https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg",
+      "issue": null,
+      "canonical_url": null
+    },
+    {
+      "source_repo": "infinite-optical-fabric-resonance-core",
+      "source_path": "README.md",
+      "url": "https://creativecommons.org/licenses/by/4.0/",
+      "kind": "external",
+      "status": 200,
+      "final_url": "https://creativecommons.org/licenses/by/4.0/",
+      "issue": null,
+      "canonical_url": null
+    },
+    {
+      "source_repo": "infinite-optical-fabric-resonance-core",
+      "source_path": "README.md",
+      "url": "https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg",
+      "kind": "external",
+      "status": 200,
+      "final_url": "https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg",
+      "issue": null,
+      "canonical_url": null
+    },
+    {
+      "source_repo": "infinite-optical-fabric-resonance-core",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/infinite-optical-fabric-resonance-core.git",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/infinite-optical-fabric-resonance-core",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/infinite-optical-fabric-resonance-core.git"
+    },
+    {
+      "source_repo": "infinite-optical-fabric-resonance-core",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/infinite-optical-fabric-resonance-core",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/infinite-optical-fabric-resonance-core",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/infinite-optical-fabric-resonance-core"
+    },
+    {
+      "source_repo": "tesseract-medium",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/tesseract-medium.git",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/tesseract-medium",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/tesseract-medium.git"
+    },
+    {
+      "source_repo": "tesseract-medium",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/penteract-kaleidoscope",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/penteract-kaleidoscope",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/penteract-kaleidoscope"
+    },
+    {
+      "source_repo": "tessy-4d-shape-explorer",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/tessy-4d-shape-explorer.git",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/tessy-4d-shape-explorer",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/tessy-4d-shape-explorer.git"
+    },
+    {
+      "source_repo": "moebius-llama",
+      "source_path": "README.md",
+      "url": "https://github.com/Immaculate1022/moebius-llama.git",
+      "kind": "personal-account",
+      "status": 200,
+      "final_url": "https://github.com/Immaculate1022/moebius-llama",
+      "issue": "candidate for PegaConstellation migration",
+      "canonical_url": "https://github.com/PegaConstellation/moebius-llama.git"
+    }
+  ]
+}

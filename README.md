@@ -50,6 +50,8 @@ Public work is released under the **IOF Attribution License v1.0** unless a repo
 
 - **[Organization Migration Plan](governance/GITHUB_ORG_MIGRATION_PLAN.md)** — reversible transfer waves, verification gates, rollback posture, and account-level prerequisites.
 - **[Target Organization Structure](governance/ORG_STRUCTURE.md)** — proposed repository groups, naming standards, profile layout, and canonical URL targets.
+- **[Repository-link auditor](scripts/README.md)** — read-only command-line audit for personal-account links, future organization targets, redirects, and stale Pages URLs.
+- **[Link-audit baseline](governance/link-audit-baseline.md)** — current 18-repository baseline with 41 checked URLs and three documented Pages 404s.
 
 These documents are planning artifacts. The organization has not been created, no repositories have been transferred, and `PegaConstellation` URLs remain targets until confirmed in GitHub.
 
