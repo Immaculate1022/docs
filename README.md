@@ -31,6 +31,7 @@ The public brief and ecosystem map are intentionally framed as a conceptual rese
 
 - **[Tesseract Medium Geometry](https://github.com/Immaculate1022/research/blob/main/tesseract-medium-geometry.md)** — Research note describing the non-orientable fractal construction and its geometric vocabulary.
 - **[IOF-Resonance-Core documentation](https://github.com/Immaculate1022/IOF-Resonance-Core/tree/main/docs)** — Gold-build notes, architecture material, protocol notes, and state-recovery design work.
+- **[Quantum-optical briefing evidence note](research/quantum_optical_briefing_evidence_note.md)** — Source check separating external associative-memory and microcavity findings from speculative IOF v2 proposals.
 - **[Community repository](https://github.com/Immaculate1022/community)** — Governance, RFCs, discussions, and the [AI Operations Charter](https://github.com/Immaculate1022/community/blob/main/AI-OPERATIONS.md).
 - **[Resonant hardware](https://github.com/Immaculate1022/IOF-Resonant-Hardware)** — Hardware specifications and prototype material.
 
